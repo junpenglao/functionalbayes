@@ -1,0 +1,7 @@
+jax
+jaxlib
+jaxopt
+blackjax-nightly
+tfp-nightly[jax]
+arviz
+jupyterlab
