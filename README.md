@@ -11,3 +11,14 @@ conda create -n bayescomp23 python=3.10
 conda activate bayescomp23
 pip install -r requirements.txt
 ```
+
+## Slides
+[Google Slides link](https://docs.google.com/presentation/d/1Fa2QEeFTo22AatybSiu9MeA6bF1kRq5JGVsF4W6BHa4/edit?usp=sharing&resourcekey=0-8DO5WGkp59q-K9RW7YUwSw)
+
+## Materials
+
+- golf_putting.ipynb: a notebook that demonstrates the iterative process of model building in a Bayesian workflow, with a functional programming princple to achieve composablity.
+
+- sparse_regression.ipynb: a simulation study with a sparse regression model, with a similar functional programming approch.
+
+- blackjax_deepdive.ipynb: a notebook that demonstrates the use of low level Blackjax to diagnose the performance of sampling routine.
