@@ -17,8 +17,8 @@ pip install -r requirements.txt
 
 ## Materials
 
-- golf_putting.ipynb: a notebook that demonstrates the iterative process of model building in a Bayesian workflow, with a functional programming princple to achieve composablity.
+- [golf_putting.ipynb](https://github.com/junpenglao/functionalbayes/blob/main/golf_putting.ipynb): a notebook that demonstrates the iterative process of model building in a Bayesian workflow, with a functional programming princple to achieve composablity.
 
-- sparse_regression.ipynb: a simulation study with a sparse regression model, with a similar functional programming approch.
+- [sparse_regression.ipynb](https://github.com/junpenglao/functionalbayes/blob/main/sparse_regression.ipynb): a simulation study with a sparse regression model, with a similar functional programming approch.
 
-- blackjax_deepdive.ipynb: a notebook that demonstrates the use of low level Blackjax to diagnose the performance of sampling routine.
+- [blackjax_deepdive.ipynb](https://github.com/junpenglao/functionalbayes/blob/main/blackjax_deepdive.ipynb): a notebook that demonstrates the use of low level Blackjax to diagnose the performance of sampling routine.
